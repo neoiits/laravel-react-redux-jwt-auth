@@ -1,0 +1,26 @@
+.navbar-brand>img{
+    width: 75px;
+}
+.custom-drop-left .dropdown-menu{
+    left: auto;
+    right: 0;
+}
+.site-footer{
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+.box-shadow{
+    box-shadow: 0px 0px 6px 0px #00000069;
+}
+.custom-width-full{
+    width: 100%;
+}
+a.link{
+    color : #007bff!important;
+}
+a.link:hover{
+    cursor: pointer;
+}
